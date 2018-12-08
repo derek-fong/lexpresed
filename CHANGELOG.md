@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/derek-fong/lexpresed/compare/1.0.0...1.0.1) (2018-12-08)
+
+
+### Bug Fixes
+
+* **docker:** add .dockerignore ([#3](https://github.com/derek-fong/lexpresed/issues/3)) ([ef3a110](https://github.com/derek-fong/lexpresed/commit/ef3a110))
+
 # [1.0.0](https://github.com/derek-fong/lexpresed/compare/0.0.0...1.0.0) (2018-12-08)
 
 
