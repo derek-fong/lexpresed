@@ -8,6 +8,10 @@ app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
+app.get('/secret-message', (req, res) => {
+  res.send(environment.secretMessage);
+});
+
 const server = app.listen(environment.port);
 console.log(`Server running on port: ${environment.port}. `);
 
