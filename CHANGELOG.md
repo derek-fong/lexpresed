@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/derek-fong/lexpresed/compare/1.1.0...1.1.1) (2018-12-09)
+
+
+### Performance Improvements
+
+* **docker:** install NPM packages with --production flag ([#5](https://github.com/derek-fong/lexpresed/issues/5)) ([93b3e9c](https://github.com/derek-fong/lexpresed/commit/93b3e9c))
+
 # [1.1.0](https://github.com/derek-fong/lexpresed/compare/1.0.1...1.1.0) (2018-12-08)
 
 
