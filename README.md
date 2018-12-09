@@ -1,5 +1,7 @@
 # Lexpresed
 
+[![CircleCI](https://circleci.com/gh/derek-fong/lexpresed.svg?style=svg)](https://circleci.com/gh/derek-fong/lexpresed)
+
 A simple Express.js application with Docker, deployed to Heroku. 
 
 ## Usage
