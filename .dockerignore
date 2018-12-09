@@ -12,7 +12,6 @@ tmp/
 .gitignore
 CHANGELOG.md
 commitlint.config.js
-Dockerfile
 heroku.yml
 jest.config.js
 LICENSE
